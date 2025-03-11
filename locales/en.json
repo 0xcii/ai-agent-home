@@ -1,28 +1,28 @@
 {
 	"Hero": {
-		"h1": "Make Landing Page Faster",
-		"h2": "This is a free, open-source and powerful landing page template for saas project, it will help you to make your startup faster."
+		"h1": "AI Automated Social Media Growth Engine",
+		"h2": "Providing fully automated account matrix incubation solutions for creators/businesses/marketing teams/KOLs, AI generates professional domain content to break through traffic bottlenecks, with proven speed increases of 10x."
 	},
 	"Feature": {
 		"h2": "Feature",
 		"h3": "Features of MaxGuruAI",
-		"description1": "Awesome landing page template.",
-		"description2": "Based on Next.JS, DaisyUI, TailwinCSS and other powerful libary.",
+		"description1": "Excellent landing page template.",
+		"description2": "Based on Next.JS, DaisyUI, TailwindCSS and other powerful libraries.",
 		"description3": "Completely open source and completely free."
 	},
 	"Pricing": {
-		"h2": "Our Pricing",
+		"h2": "Pricing",
 		"h3": "Choose Your Plan",
 		"description": "Select the plan that best fits your needs.",
-		"doYouLike": "你喜欢这个落地页模板吗？",
-		"follow": "关注我的推特。"
+		"doYouLike": "Do you like this landing page template?",
+		"follow": "Follow my Twitter."
 	},
 	"Testimonial": {
-		"h2": "Testimonials",
+		"h2": "Testimonial",
 		"h3": "Wall of Love",
 		"description1": "If you use this landing page template and recommend it on your Twitter,",
 		"description2": "please let me know",
-		"description3": ",I will display your tweet and recommendation here."
+		"description3": ", I will display your tweet and recommendation here."
 	},
 	"Faq": {
 		"h2": "FAQ",
@@ -30,12 +30,12 @@
 		"description": "Here are some of the most frequently asked questions."
 	},
 	"CTA": {
-		"h2": "Start using MaxGuruAI now",
-		"h3": "Showcase your product and start making profits!"
+		"h2": "Start Using MaxGuruAI Now",
+		"h3": "Free Up Your Time, Improve Efficiency with Automation!"
 	},
 	"CTAButton": {
-		"btn1": "Get Source Code",
-		"btn2": "View Docs"
+		"btn1": "Contact Us",
+		"btn2": "View Case Studies"
 	},
 	"About": {
 		"h1": "About Us",

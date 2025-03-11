@@ -1,41 +1,41 @@
 {
 	"Hero": {
-	  "h1": "Créez rapidement votre page de renvoi",
-	  "h2": "Voici un modèle de page de renvoi gratuit, open source et puissant pour les projets SaaS, qui vous aidera à lancer votre startup plus rapidement."
+	  "h1": "Moteur de Croissance des Médias Sociaux Automatisé par IA",
+	  "h2": "Fournissant des solutions d'incubation de matrice de comptes entièrement automatisées pour les créateurs/entreprises/équipes marketing/KOLs, l'IA génère du contenu de domaine professionnel pour franchir les goulots d'étranglement du trafic, avec des augmentations de vitesse prouvées de 10 fois."
 	},
 	"Feature": {
 	  "h2": "Fonctionnalités",
-	  "h3": "Caractéristiques du modèle de page de renvoi Chengfeng",
-	  "description1": "Un excellent modèle de page de renvoi.",
+	  "h3": "Caractéristiques de MaxGuruAI",
+	  "description1": "Excellent modèle de page de destination.",
 	  "description2": "Basé sur Next.JS, DaisyUI, TailwindCSS et d'autres bibliothèques puissantes.",
 	  "description3": "Entièrement open source et totalement gratuit."
 	},
 	"Pricing": {
 	  "h2": "Tarification",
-	  "h3": "Choisissez votre plan",
+	  "h3": "Choisissez Votre Plan",
 	  "description": "Sélectionnez le plan qui convient le mieux à vos besoins.",
-	  "doYouLike": "Aimez-vous ce modèle de page de renvoi ?",
-	  "follow": "Suivez-moi sur Twitter."
+	  "doYouLike": "Aimez-vous ce modèle de page de destination ?",
+	  "follow": "Suivez mon Twitter."
 	},
 	"Testimonial": {
 	  "h2": "Témoignages",
-	  "h3": "Mur d'amour",
-	  "description1": "Si vous utilisez ce modèle de page de renvoi et le recommandez sur votre Twitter,",
-	  "description2": "faites-le moi savoir",
-	  "description3": ", je présenterai votre tweet et votre recommandation ici."
+	  "h3": "Mur d'Amour",
+	  "description1": "Si vous utilisez ce modèle de page de destination et le recommandez sur votre Twitter,",
+	  "description2": "veuillez nous le faire savoir",
+	  "description3": ", nous afficherons votre tweet et votre recommandation ici."
 	},
 	"Faq": {
 	  "h2": "FAQ",
-	  "h3": "Questions fréquemment posées",
+	  "h3": "Questions Fréquemment Posées",
 	  "description": "Voici quelques-unes des questions les plus courantes."
 	},
 	"CTA": {
-	  "h2": "Construisez votre page de renvoi maintenant",
-	  "h3": "Créez votre page de renvoi, présentez votre produit et commencez à gagner de l'argent !"
+	  "h2": "Commencez à utiliser MaxGuruAI maintenant",
+	  "h3": "Libérez votre temps, améliorez l'efficacité grâce à l'automatisation !"
 	},
 	"CTAButton": {
-	  "btn1": "Obtenir le code source",
-	  "btn2": "Voir la documentation"
+	  "btn1": "Contactez-nous",
+	  "btn2": "Voir les études de cas"
 	},
 	"About": {
 		"h1": "À Propos de Nous",
@@ -47,7 +47,7 @@
 	},
 	"Blog": {
 		"title": "Blog",
-		"description": "Cette est une description de la page de liste de blogs séparée",
+		"description": "Ceci est une description de la page de liste de blogs séparée",
 		"side1": "Description",
 		"side2": "Blogs Populaires",
 		"side3": "Récemment mis à jour"
