@@ -1,8 +1,9 @@
 import React from 'react';
+import Head from 'next/head';
 
 export default function CustomHead() {
 	return (
-		<>
+		<Head>
 			{/* <script
 				async
 				src='https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXX'
@@ -27,6 +28,7 @@ export default function CustomHead() {
         `,
 				}}
 			/>
-		</>
+			<meta name="cryptomus" content="def05cbb" />
+		</Head>
 	);
 }
