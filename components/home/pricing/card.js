@@ -27,7 +27,9 @@ export default function PricingCard({ pricingItem = {} }) {
 			<a
 				aria-label='choose plan'
 				title='choose plan'
-				href='#'
+				href='https://t.me/AturX'
+				target="_blank"
+				rel="noopener noreferrer"
 				className='btn btn-wide bg-base-content text-base-100 hover:bg-base-100 hover:text-base-content rounded-full'
 			>
 				Choose Plan
