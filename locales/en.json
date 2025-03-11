@@ -1,28 +1,28 @@
 {
 	"Hero": {
 		"h1": "AI Automated Social Media Growth Engine",
-		"h2": "Providing fully automated account matrix incubation solutions for creators/businesses/marketing teams/KOLs, AI generates professional domain content to break through traffic bottlenecks, with proven speed increases of 10x."
+		"h2": "Providing fully automated account matrix incubation solutions for creators/businesses/marketing teams/KOLs, AI generates professional domain content to break through traffic bottlenecks, with proven 10x speed increase."
 	},
 	"Feature": {
 		"h2": "Feature",
 		"h3": "Features of MaxGuruAI",
-		"description1": "Excellent landing page template.",
-		"description2": "Based on Next.JS, DaisyUI, TailwindCSS and other powerful libraries.",
-		"description3": "Completely open source and completely free."
+		"description1": "AI clones top KOL creation patterns, generates 30 days of high-engagement tweets in 1 day, reducing new account cold start period by 90%.",
+		"description2": "Zero human intervention in generating viral content, breaking traditional growth limits",
+		"description3": "Providing fully automated account growth solutions for brands/organizations/individuals"
 	},
 	"Pricing": {
 		"h2": "Pricing",
 		"h3": "Choose Your Plan",
 		"description": "Select the plan that best fits your needs.",
-		"doYouLike": "Do you like this landing page template?",
+		"doYouLike": "Do you like this AI agent service?",
 		"follow": "Follow my Twitter."
 	},
 	"Testimonial": {
 		"h2": "Testimonial",
 		"h3": "Wall of Love",
-		"description1": "If you use this landing page template and recommend it on your Twitter,",
+		"description1": "If you use this AI agent service and recommend it on your Twitter,",
 		"description2": "please let me know",
-		"description3": ", I will display your tweet and recommendation here."
+		"description3": "I will showcase your AI bot here."
 	},
 	"Faq": {
 		"h2": "FAQ",

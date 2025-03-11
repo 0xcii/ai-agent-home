@@ -6,23 +6,23 @@
 	"Feature": {
 		"h2": "機能",
 		"h3": "MaxGuruAIの特徴",
-		"description1": "優れたランディングページテンプレート。",
-		"description2": "Next.JS、DaisyUI、TailwindCSSなどの強力なライブラリをベースにしています。",
-		"description3": "完全にオープンソースで、完全に無料です。"
+		"description1": "AIがトップKOLのクリエイションパターンを複製し、1日で30日分の高エンゲージメントツイートを生成、新規アカウントの立ち上げ期間を90%短縮。",
+		"description2": "バイラルコンテンツの生成に人手を介さず、従来の成長限界を突破",
+		"description3": "ブランド/組織/個人向けの完全自動化されたアカウント成長ソリューションを提供"
 	},
 	"Pricing": {
 		"h2": "料金",
 		"h3": "プランを選択",
 		"description": "あなたのニーズに最適なプランを選択してください。",
-		"doYouLike": "このランディングページテンプレートはお気に入りですか？",
+		"doYouLike": "このAIエージェントサービスはいかがですか？",
 		"follow": "私のTwitterをフォローしてください。"
 	},
 	"Testimonial": {
 		"h2": "お客様の声",
 		"h3": "愛の壁",
-		"description1": "このランディングページテンプレートを使用し、Twitterで推薦される場合、",
+		"description1": "このAIエージェントサービスを使用し、Twitterで推薦される場合、",
 		"description2": "お知らせください",
-		"description3": "、あなたのツイートと推薦をここに表示します。"
+		"description3": "あなたのAIボットをここで紹介します。"
 	},
 	"Faq": {
 		"h2": "FAQ",

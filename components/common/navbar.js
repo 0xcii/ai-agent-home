@@ -27,6 +27,13 @@ export default function Navbar() {
 		fetchLinksList();
 	}, [pathname, langName]);
 
+	const getHref = (link) => {
+		if (link.url.startsWith('http')) {
+			return link.url;
+		}
+		return `/${langName}${link.url}`;
+	};
+
 	return (
 		<header className='w-full relative z-50 bg-base-100 p-5 pb-0 container mx-auto md:mb-5 flex justify-between items-center'>
 			<a
@@ -47,6 +54,7 @@ export default function Navbar() {
 
 			<ul className='w-3/5 px-5 font-medium hidden md:flex flex-nowrap items-center justify-around'>
 				{linkList.map((link, index) => {
+					const isExternal = link.url.startsWith('http');
 					return (
 						<li
 							key={index}
@@ -56,7 +64,8 @@ export default function Navbar() {
 								aria-label={link.name}
 								className='group relative'
 								title={link.name}
-								href={`/${langName}${link.url}`}
+								href={getHref(link)}
+								{...(isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
 							>
 								{link.name}
 								<div className='absolute left-[50%] group-hover:left-0 w-0 group-hover:w-full h-[3px] transition-all duration-300 bg-base-content/90'></div>
@@ -84,12 +93,14 @@ export default function Navbar() {
 					</summary>
 					<ul className='menu dropdown-content z-[100] p-2 shadow bg-base-100 opacity-100 rounded-box w-52'>
 						{linkList.map((link, index) => {
+							const isExternal = link.url.startsWith('http');
 							return (
 								<li key={index}>
 									<a
 										aria-label={link.name}
 										title={link.name}
-										href={`/${langName}${link.url}`}
+										href={getHref(link)}
+										{...(isExternal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
 									>
 										{link.name}
 									</a>

@@ -6,23 +6,23 @@
 	"Feature": {
 	  "h2": "Fonctionnalités",
 	  "h3": "Caractéristiques de MaxGuruAI",
-	  "description1": "Excellent modèle de page de destination.",
-	  "description2": "Basé sur Next.JS, DaisyUI, TailwindCSS et d'autres bibliothèques puissantes.",
-	  "description3": "Entièrement open source et totalement gratuit."
+	  "description1": "L'IA clone les modèles de création des KOL principaux, génère 30 jours de tweets à fort engagement en 1 jour, réduisant la période de démarrage à froid des nouveaux comptes de 90%.",
+	  "description2": "Zéro intervention humaine dans la génération de contenu viral, dépassant les limites de croissance traditionnelles",
+	  "description3": "Fournissant des solutions de croissance de compte entièrement automatisées pour les marques/organisations/individus"
 	},
 	"Pricing": {
 	  "h2": "Tarification",
 	  "h3": "Choisissez Votre Plan",
 	  "description": "Sélectionnez le plan qui convient le mieux à vos besoins.",
-	  "doYouLike": "Aimez-vous ce modèle de page de destination ?",
+	  "doYouLike": "Aimez-vous ce service d'agent IA ?",
 	  "follow": "Suivez mon Twitter."
 	},
 	"Testimonial": {
 	  "h2": "Témoignages",
 	  "h3": "Mur d'Amour",
-	  "description1": "Si vous utilisez ce modèle de page de destination et le recommandez sur votre Twitter,",
+	  "description1": "Si vous utilisez ce service d'agent IA et le recommandez sur votre Twitter,",
 	  "description2": "veuillez nous le faire savoir",
-	  "description3": ", nous afficherons votre tweet et votre recommandation ici."
+	  "description3": "nous présenterons votre bot IA ici."
 	},
 	"Faq": {
 	  "h2": "FAQ",

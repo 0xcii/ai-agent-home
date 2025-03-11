@@ -6,23 +6,23 @@
 	"Feature": {
 		"h2": "Características",
 		"h3": "Características de MaxGuruAI",
-		"description1": "Excelente plantilla de página de destino.",
-		"description2": "Basada en Next.JS, DaisyUI, TailwindCSS y otras bibliotecas potentes.",
-		"description3": "Completamente de código abierto y completamente gratuita."
+		"description1": "La IA clona patrones de creación de KOLs principales, genera 30 días de tweets de alta interacción en 1 día, reduciendo el período de inicio en frío de nuevas cuentas en un 90%.",
+		"description2": "Cero intervención humana en la generación de contenido viral, rompiendo los límites de crecimiento tradicionales",
+		"description3": "Proporcionando soluciones de crecimiento de cuentas totalmente automatizadas para marcas/organizaciones/individuos"
 	},
 	"Pricing": {
 		"h2": "Precios",
 		"h3": "Elija Su Plan",
 		"description": "Seleccione el plan que mejor se adapte a sus necesidades.",
-		"doYouLike": "¿Le gusta esta plantilla de página de destino?",
+		"doYouLike": "¿Le gusta este servicio de agente de IA?",
 		"follow": "Siga mi Twitter."
 	},
 	"Testimonial": {
 		"h2": "Testimonios",
 		"h3": "Muro de Amor",
-		"description1": "Si utiliza esta plantilla de página de destino y la recomienda en su Twitter,",
+		"description1": "Si utiliza este servicio de agente de IA y lo recomienda en su Twitter,",
 		"description2": "por favor háganoslo saber",
-		"description3": ", mostraremos su tweet y recomendación aquí."
+		"description3": "mostraremos su bot de IA aquí."
 	},
 	"Faq": {
 		"h2": "FAQ",
