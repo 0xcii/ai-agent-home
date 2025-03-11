@@ -5,10 +5,10 @@
 	},
 	"Feature": {
 		"h2": "Feature",
-		"h3": "MaxGuruAI的特点",
-		"description1": "出色的落地页模板。",
-		"description2": "基于Next.JS、DaisyUI、TailwindCSS和其他强大的库。",
-		"description3": "完全开源且完全免费。"
+		"h3": "MaxGuruAI 的特点",
+		"description1": "AI克隆头部KOL创作模式，1天创建30天的高互动推文，新账号冷启动周期缩短90%。",
+		"description2": "零人工干预生成爆款内容，突破传统运营增速极限",
+		"description3": "为品牌/机构/个人提供全自动账号增长解决方案"
 	},
 	"Pricing": {
 		"h2": "Pricing",
