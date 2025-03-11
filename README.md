@@ -1,6 +1,6 @@
-![screenshot](https://mp-bca925c9-72bc-4e92-8c87-d596015241bf.cdn.bspapp.com/2024/06/29/48052030-56853423-SafariLight.png)
+![截图](https://mp-bca925c9-72bc-4e92-8c87-d596015241bf.cdn.bspapp.com/2024/06/29/48052030-56853423-SafariLight.png)
 
-# [inWind Landing Page Template](https://landingpage.huglemon.com/)
+# [MaxGuruAI Landing Page Template](https://landingpage.huglemon.com/)
 
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
@@ -50,7 +50,7 @@ inWind Landing Page 是基于 Next.js 给出海SaaS项目开发的Landing Page�
 -   WeChat：yflowerred
 -   Twitter：[@huglemon520](x.com/huglemon520)
 -   Email：[karma.zhao@gmail.com](mailto:karma.zhao@gmail.com)
--   博客：[https://huglemon.com](https://huglemon.com)
+<!-- -   博客：[https://huglemon.com](https://huglemon.com) -->
 
 ### 赞助
 
