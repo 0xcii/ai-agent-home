@@ -37,6 +37,8 @@ export default async function RootLayout({ children }) {
 		<html lang="en" className={jakarta.className}>
 			<head>
 				<CustomHead />
+				{/* Cryptomus 网站所有权验证 */}
+				<meta name="cryptomus" content="def05cbb" />
 			</head>
 			<body>
 				<ThemeScript />
